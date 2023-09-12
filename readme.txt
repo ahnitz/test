@@ -6,4 +6,4 @@ This is an initial commit
 * This is another item: Add stuff here
 
 
-* This is a last item
+* This is a last item: This is one line
